@@ -197,7 +197,7 @@ Dans la machine KDC, envoyez le fichier keytab au serveur  :<br>
 ![Vérifier l'extraction du fichier keytab](img/cupkeytab_read_kt.JPG)
 
 
-remarque le nom de fichier keytab c'est service n'est pas cups commme
+remarque le nom de fichier keytab c'est service n'est pas cups*
 
 #### Configuration du serveur d'impression notre service cups  cupsd.conf
 ##### Installation de cups
