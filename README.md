@@ -1,6 +1,6 @@
 #  Configuration de CUPS( serveur d'impression) pour l'authentification Kerberos
 
-CUPS implémente Kerberos sur HTTP en utilisant GSSAPI et les noms de service/principal "host/server.example.com" pour l'accès en ligne de commande et "HTTP/server.example.com" pour l'accès Web, où "server.example.com " est remplacé par le nom d'hôte de votre serveur CUPS. En raison des limitations de l'extension de protocole HTTP GSSAPI, un seul domaine/KDC est pris en charge pour l'authentification. L'extension HTTP est décrite dans RFC 4559 . Dans notre cas on utiliser kerberos pour l'authentification pour l'accès Web.
+CUPS implémente Kerberos sur HTTP en utilisant GSSAPI et les noms de service/principal "host/server.example.com" pour l'accès en ligne de commande et "HTTP/server.example.com" pour l'accès Web, où "server.example.com " est remplacé par le nom d'hôte de votre serveur CUPS. En raison des limitations de l'extension de protocole HTTP GSSAPI, un seul domaine/KDC est pris en charge pour l'authentification. L'extension HTTP est décrite dans RFC 4559 . Dans notre cas on a  utilisé kerberos pour l'authentification pour l'accès Web.
 
 ##  Introduction kerberos
 
