@@ -282,8 +282,8 @@ Dans une session de terminal sur l'hôte client, détruisez le ticket Kerberos :
 kdestroy -A
 Maintenant, accédez à nouveau à l'interface Web d'administration CUPS sur l'hôte client. Cette fois, une erreur devrait s'afficher car il n'y a pas de ticket d'authentification Kerberos valide.
 
-###Les références :
-https://github.com/yosra270/postgresql-auth-with-kerberos
-https://linuxhint.com/cups_print_server_ubuntu/
-https://www.cups.org/doc/kerberos.html
+###Les références :<br>
+https://github.com/yosra270/postgresql-auth-with-kerberos<br>
+https://linuxhint.com/cups_print_server_ubuntu<br>
+https://www.cups.org/doc/kerberos.html<br>
 https://roughlea.wordpress.com/linux-administration/configuring-cups-for-kerberos-authentication/
